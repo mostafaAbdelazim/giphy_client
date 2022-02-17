@@ -1,5 +1,7 @@
-# giphy_client
-[![Build Status](https://travis-ci.org/brianegan/giphy_client.svg?branch=master)](https://travis-ci.org/brianegan/giphy_client) [![codecov](https://codecov.io/gh/brianegan/giphy_client/branch/master/graph/badge.svg)](https://codecov.io/gh/brianegan/giphy_client)
+# giphy_api_client
+
+Credit to author(s) of https://pub.dev/packages/giphy_client
+Forked with null safety due to inactivity on attempts to merge on repo
 
 A Giphy API Client for Dart compatible with all platforms
 
@@ -10,7 +12,7 @@ First, register an app at the [Giphy Developers Portal](https://developers.giphy
 Then, follow the instructions below:
 
 ```dart
-import 'package:giphy_client/giphy_client.dart';
+import 'package:giphy_api_client/giphy_client.dart';
 
 main() async {
   // Create the client with an api key
@@ -38,4 +40,4 @@ main() async {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://github.com/brianegan/giphy_client/issues/new
+[tracker]: http://github.com/java_james/giphy_client/issues/new
