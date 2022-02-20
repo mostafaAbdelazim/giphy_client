@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:giphy_client/src/models/collection.dart';
-import 'package:giphy_client/src/models/gif.dart';
-import 'package:giphy_client/src/models/languages.dart';
-import 'package:giphy_client/src/models/rating.dart';
+import './models/collection.dart';
+import './models/gif.dart';
+import './models/languages.dart';
+import './models/rating.dart';
 import 'package:http/http.dart';
 
 class GiphyClient {

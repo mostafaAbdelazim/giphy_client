@@ -1,4 +1,4 @@
-import 'package:giphy_client/giphy_client.dart';
+import 'package:giphy_api_client/giphy_client.dart';
 import 'package:http/http.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';

@@ -1,5 +1,5 @@
-import 'package:giphy_client/src/models/images.dart';
-import 'package:giphy_client/src/models/user.dart';
+import './images.dart';
+import './user.dart';
 
 class GiphyGif {
   final String? title;

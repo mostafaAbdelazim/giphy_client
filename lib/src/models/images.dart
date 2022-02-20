@@ -1,4 +1,4 @@
-import 'package:giphy_client/src/models/image.dart';
+import './image.dart';
 
 class GiphyImages {
   final GiphyStillImage? fixedHeightStill;

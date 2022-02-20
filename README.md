@@ -1,9 +1,10 @@
 # giphy_api_client
 
-Credit to author(s) of https://pub.dev/packages/giphy_client
-Forked with null safety due to inactivity on attempts to merge on repo
-
 A Giphy API Client for Dart compatible with all platforms
+
+Forked from https://pub.dev/packages/giphy_client
+Credit to author(s) of original repo
+Forked and added null safety due to inactivity on attempts to merge on repo
 
 ## Usage
 
@@ -40,4 +41,4 @@ main() async {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://github.com/java_james/giphy_client/issues/new
+[tracker]: https://github.com/java-james/giphy_client/issues/new
