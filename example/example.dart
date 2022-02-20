@@ -1,4 +1,4 @@
-import 'package:giphy_api_client/giphy_client.dart';
+import 'package:giphy_api_client/giphy_api_client.dart';
 
 void main() async {
   // Create the client with an api key

@@ -1,4 +1,4 @@
-library giphy_client;
+library giphy_api_client;
 
 export 'src/client.dart';
 export 'src/models/collection.dart';

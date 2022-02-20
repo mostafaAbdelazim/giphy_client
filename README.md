@@ -13,7 +13,7 @@ First, register an app at the [Giphy Developers Portal](https://developers.giphy
 Then, follow the instructions below:
 
 ```dart
-import 'package:giphy_api_client/giphy_client.dart';
+import 'package:giphy_api_client/giphy_api_client.dart';
 
 main() async {
   // Create the client with an api key
