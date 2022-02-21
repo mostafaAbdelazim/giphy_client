@@ -1,3 +1,8 @@
+## 0.1.3
+
+- Format code with dart format
+- Fix github link
+
 ## 0.1.2
 
 - Fix import name references
