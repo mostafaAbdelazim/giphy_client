@@ -93,8 +93,8 @@ class GiphyClient {
     final response = await _client.get(
       uri.replace(
         queryParameters: Map<String, String>.from(uri.queryParameters)
-            ..putIfAbsent('api_key', () => _apiKey),
-        ),
+          ..putIfAbsent('api_key', () => _apiKey),
+      ),
     );
 
     if (response.statusCode == 200) {
